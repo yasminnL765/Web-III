@@ -1,0 +1,22 @@
+<!DOCTYPE html><!--declarando o tipo do documento que e html-->
+<html><!--estou abrindo o html e definindo o arquivo-->
+    <head><!-- cabeçalho da página que contém as informações do documento--> 
+        <title>Primeira aula de HTML</title> <!--titulo que vai aparecer na aba do navegador--> 
+           <meta charset="UTF-8"><!-- para aceitar os caracteres especiais-->
+           <meta name="keywords" content="Apostila, QI. HTML"><!--achar o site por palavras chaves--> 
+           <meta name ="description" content="Html-hipertex Markup language"> <!--coloca a descriçaõ abaixo do site-->
+           <meta name="author" content=" Andrezza baccabo"><!--Para colocar o autor do site--> 
+           <meta name="viewport" content="width=device-width, initial-scale=1.0"><!-- responsável po mostrar na tela do celular--> 
+    </head><!--Fechando o cabecalho-->
+    <body><!-- abrindo corpo da página-->
+        <h1><b>HTML</b></h1><!-- tipo de titulo--> 
+        <br>
+        <p><img src= "img/HTML.png"></p>
+        <p>HTML (Linguagem de Marcação de HiperTexto) é o bloco de construção mais básico da web. Define o significado e a estrutura do conteúdo da web. Outras tecnologias além do HTML geralmente são usadas para descrever a aparência/apresentação (CSS) ou a funcionalidade/comportamento (JavaScript) de uma página da web <p>
+        <p>Um forte exemplo de hipertexto são os artigos na internet. No corpo do texto eles apresentam diversos links ("ligação" em inglês) ou hiperlinks nas palavras ou nos assuntos que estejam relacionados. Isso permite que o próprio leitor tenha uma posição mais ativa, escolhendo as informações que prefere acessar. <p>
+        <h2><i>CSS</i> </h2> 
+        <p>CSS é chamado de linguagem Cascading Style Sheet e é usado para estilizar elementos escritos em uma linguagem de marcação como HTML. O CSS separa o conteúdo da representação visual do site. <p>
+        <br> <!-- quebra de lina--> 
+        <p><img src="img/css.jpg"></p> 
+    </body><!-- fechando o corpo da página--> 
+</html><!--fechando o arquivo html-->
